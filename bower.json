@@ -1,0 +1,16 @@
+{
+  "name": "angular-mock-1.2.4-patched",
+  "version": "1.2.4",
+  "homepage": "https://github.com/dmitry12/angular-mocks-1.2.4",
+  "authors": ['Dmitry Astapenko'],
+  "description": "Patched version for angular mock 1.2.4",
+  "main": "angular-mocks.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
